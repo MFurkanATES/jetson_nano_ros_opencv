@@ -21,4 +21,4 @@ python sub_opencv_mst.py
 
 sonrasinda kendi kodunuzda sub_opencv_mst de ki gibi görüntü alabilirsiniz,Burda ki olusturulmus pipeline ROS icerisine yayin yaptigi icin,ros icerisinde yazmis oldugunuz farkli programladan bu yayina ulasabilirsiniz,herhangi bir rtsp server baglantisina vs. gerek kalmaz.
 
-Mekatronik sistem tasarimi dersi 2018-Konya
+Mekatronik sistem tasarimi dersi 2019-Konya
