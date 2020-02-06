@@ -12,7 +12,7 @@ roscore
 
 2.terminalde opencv_mst dosyasini bulundugu klasorde gidip calistirin
 
-python opencv-mst.py
+python opencv_mst.py
 
 3.terminalde sub_opencv_mst dosyasinin bulunduğu klasore gidip dosyayi calistirin,bu sayede ros icerisine yapilan yayini görebileceksiniz
 
@@ -20,3 +20,5 @@ python sub_opencv_mst.py
 
 
 sonrasinda kendi kodunuzda sub_opencv_mst de ki gibi görüntü alabilirsiniz,Burda ki olusturulmus pipeline ROS icerisine yayin yaptigi icin,ros icerisinde yazmis oldugunuz farkli programladan bu yayina ulasabilirsiniz,herhangi bir rtsp server baglantisina vs. gerek kalmaz.
+
+Mekatronik sistem tasarimi dersi 2018-Konya
